@@ -1,3 +1,5 @@
+Loan Default Prediction & Feature Importance
+
 This project includes extensive feature engineering, data scaling, model training, evaluation, and advanced techniques for handling class imbalance and optimizing misclassification costs. Key components of the project are:
 
 	•	Data Preprocessing & Feature Engineering: Conversion of categorical variables (e.g., term, interest rate) into numeric formats, calculation of additional features like average FICO score and credit history duration, and handling of missing data.
